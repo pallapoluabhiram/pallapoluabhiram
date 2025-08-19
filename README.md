@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhiram&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiram" />
-</p>
-
----
-
 ## 🎯 Career Objective
 
 As an engineering graduate with a solid foundation in Computer Science and Engineering, I am proficient in technical skills and eager to apply my theoretical knowledge to real-world projects. I am a quick learner, adaptable, and an effective team collaborator.
