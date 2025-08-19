@@ -107,10 +107,6 @@ Positive Attitude · Problem-Solving Mindset · Strong Verbal Communication
 
 ---
 
-
-
----
-
 ## 🧠 Hobbies
 
 - 📖 Reading story books  
