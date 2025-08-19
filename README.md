@@ -107,20 +107,7 @@ Positive Attitude · Problem-Solving Mindset · Strong Verbal Communication
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiram&show_icons=true&theme=radical" alt="Abhiram's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhiram&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
