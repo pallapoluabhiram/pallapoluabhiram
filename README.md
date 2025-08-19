@@ -3,6 +3,16 @@
 
 ---
 
+<p align="center">
+  <!-- Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Abhiram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhiram.Abhiram" alt="Visitors" />
+</p>
+
+---
+
 ## 🎯 Career Objective
 
 As an engineering graduate with a solid foundation in Computer Science and Engineering, I am proficient in technical skills and eager to apply my theoretical knowledge to real-world projects. I am a quick learner, adaptable, and an effective team collaborator.
@@ -114,4 +124,3 @@ Positive Attitude · Problem-Solving Mindset · Strong Verbal Communication
 
 I hereby declare that the information provided above is true and correct to the best of my knowledge.  
 *(Abhiram Reddy Pallapolu)*
-
